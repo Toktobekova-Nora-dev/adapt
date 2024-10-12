@@ -1,0 +1,908 @@
+@media (max-width: 1200px){
+    .explore-second {
+        width: 219px;
+        height: 92px;
+    }
+    .explore-second p {
+        font-size: 11px;
+    }
+    .explore-second-t {
+        margin-left: 110px;
+    }
+    .start-plan {
+        width: 235px;
+    }
+
+    .subscrib {
+        margin-left: 0px;
+        width: 1080px;
+    }
+
+
+}
+@media (max-width: 1024px){
+      
+    dificult {
+        width: 126px;
+        height: 123px;
+        top: 240px;
+        left: 190px;
+    }
+
+    .section-one h1 {
+        font-size: 40px;
+    }
+
+
+    .hero-one {
+        width: 290px;
+        height: 125px;
+        border: 2px solid rgba(228, 231, 236, 1);
+    }
+
+
+    .hero-one h3 {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    
+    .bloc-code {
+        gap: 15px;
+    }
+
+
+    .explore-one h1 {
+        font-size: 50px;
+        font-weight: 700;
+    }
+
+
+    .explore-second {
+        width: 198px;
+        height: 90px;
+    }
+
+    .looking{
+        display: flex;
+        gap: 18px;
+    }
+
+
+   .explore-second p {
+        font-size: 10px;
+        font-weight: 700;
+    }
+
+    .explore-second-t {
+        margin-left: 130px;
+        width: 198px;
+        height: 56px;
+    }
+
+
+    .explore-second-t p {
+        font-size: 12px;
+        font-weight: 600;
+        color: rgba(50, 58, 75, 1);
+    }
+
+
+
+    .explore-two-box {
+        width: 400px;
+    }
+
+
+    .start-plan {
+        width: 186px;
+        height: 311px;
+    }
+
+    .subscrib {
+        width: 933px;
+        margin-left: 20px;
+    }
+
+    .ic{
+        display: none;
+    }
+
+    .course {
+        width: 174px;
+        height: 134px;
+        background-color: rgb(245, 238, 238);
+        padding: 13px;
+        border-radius: 16px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 2px;
+        position: absolute;
+        top: 120px;
+        right: 273px;
+    }
+
+
+}
+@media (max-width: 992px){
+    .section-one h1 {
+        font-size: 38px;
+    }
+
+
+    .section-one p {
+        font-size: 15px;
+    }
+
+    .project h1{
+        font-size: 25px;
+    }
+    .hero-one {
+        width: 280px;
+    }
+    .hero-one h3 {
+        font-size: 14px;
+    }
+ 
+
+ .explore-one h1 {
+    font-size: 60px;
+ }
+
+ .explore-one p {
+    font-size: 17px;
+}
+
+.explore-second {
+    width: 187px;
+    height: 90px;
+}
+
+
+
+.bord-box {
+    width: 240px;
+    height: 295px;
+}
+
+.bord-box h3{
+    font-size: 13px;
+}
+.explore-second p {
+    font-size: 9px;
+}
+
+
+.l{
+ padding-bottom: 0;
+}
+
+
+
+}
+@media (max-width: 768px){
+
+    .header-other a{
+        margin: 8px;
+    }
+
+    .started {
+        width: 117px;
+        height: 40px;
+    }
+
+    .releitive {
+        margin-right: 0;
+       width: 250px;
+    }
+
+    section{
+        margin-top: 60px;
+    }
+
+
+    .section-one h1 {
+        font-size: 33px;
+    }
+
+    .section-one p {
+        font-size: 13px;
+    }
+
+    .dificult {
+        width: 99px;
+        height: 104px;
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        border-radius: 30px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 10px;
+        position: absolute;
+        top: 206px;
+        left: 108px;
+    }
+    .dificult p {
+        font-size: 10px;
+    }
+
+    .dificult .p {
+        width: 82px;
+        height: 16px;
+        font-size: 10px;
+    }
+
+    
+    .hero-one h3 {
+        font-size: 9px;
+       line-height: 20px;
+        
+    }
+
+    .hero-one p {
+        font-size: 10px;
+        font-weight: 500;
+
+    }
+
+    .hero-one {
+        width: 200px;
+        height: 90px;
+    }
+
+    flex1 h1{
+        font-size: 13px;
+    }
+    
+    
+    .bord-test h1 {
+        font-size: 40px;
+    }
+       
+    .bord-box {
+        width: 175px;
+        height: 295px;
+    }
+
+
+    .explore-one h1 {
+        font-size: 45px;
+    }
+
+    .explore-one p {
+        font-size: 16px;
+    }
+
+    .explore-two-box {
+        width: 299px;
+        height: 336px;
+   
+
+          padding: 20px;
+       
+    }
+
+    .floor {
+        width: 273px;
+        margin-left: 80px;
+    }
+
+    .hr{
+        width: 273px;
+        margin-left: 80px;
+    }
+
+
+    .explore-second {
+        width: 139px;
+        height: 81px;
+        padding-left: 10px;
+    }
+
+    .explore-second-t {
+        margin-left: 60px;
+    }
+    .dector{
+        display: none;
+    }
+    
+    .subscrib {
+        width: 669px;
+        margin-left: 0px;
+    }
+    .subscrib-one {
+        padding-top: 96px;
+        padding-left: 33px;
+        gap: 9px;
+    }
+
+    .subscrib-two {
+        margin-left: -12px;
+        margin-top: 227px;
+    }
+    .cozy {
+        width: 162px;
+        height: 200px;
+    }
+    .course {
+        width: 108px;
+        height: 90px;
+        padding: 18px;
+        border-radius: 16px;
+        top: 43px;
+        right: 135px;
+    }
+    .p {
+        font-size: 12px;
+    }
+
+    .june p{
+        font-size: 10px;
+    }
+
+    .contact p {
+        line-height: 44px;
+    }
+
+}
+@media (max-width: 576px){
+    a{
+        display: none;
+    }
+
+    .releitive{
+        display: none;
+    }
+
+    .dificult{
+        display: none;
+    }
+
+    .bord-box {
+        width: 194px;
+        height: 295px;
+    }
+
+      
+    .subscrib {
+        width: 513px;
+        height: 290px;
+    }
+
+    .subscrib-one {
+        padding-top: 72px;
+        padding-left: 19px;
+    }
+
+
+    .subscrib-one h1 {
+        font-size: 20px;
+    }
+
+    .subscrib-one p {
+        font-size: 11px;
+    }
+
+    .subscrib-one input {
+        width: 243px;
+        height: 30px;
+        border-radius: 53px;
+        border: none;
+        cursor: pointer;
+        outline: none;
+        padding-left: 16px;
+    }
+    .cozy {
+        width: 174px;
+        height: 176px;
+    }
+
+    .subscrib-two {
+        margin-left: 50px;
+        margin-top: 164px;
+    }
+
+    .hero-one {
+        width: 150px;
+        height: 76px;
+    }
+    .p {
+        font-size: 7px;
+    }
+    .course{
+        font-size: 12px;
+    }
+
+    .course {
+        width: 108px;
+        height: 82px;
+        background-color: rgb(245, 238, 238);
+        padding: 13px;
+        border-radius: 16px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 2px;
+        position: absolute;
+        top: 47px;
+        right: 135px;
+    }
+
+    .hero-one h3 {
+        font-size: 5px;
+        line-height: 20px;
+    }
+
+    .explore-one h1 {
+        font-size: 31px;
+    }
+    
+    .explore-one p {
+        font-size: 12px;
+    }
+
+    .explore-computer{
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .looking {
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    .explore-second {
+        width: 210px;
+        height: 66px;
+        padding-left: 10px;
+    }
+
+    .explore-second-t {
+        margin-left: 5px;
+    }
+    .explore-two-box {
+        width: 385px;
+        height: 352px;
+        padding: 12px;
+    }
+
+    .ordering-one h1 {
+        padding-top: 30px;
+        
+    }
+
+    .dector{
+        display: none;
+    }
+
+
+
+    .n {
+        width: 149px;
+        height: 34px;
+        font-size: 11px;
+    }
+
+    .head-two p {
+        font-size: 11px;
+        font-weight: 500;
+    }
+
+    .head h4 {
+        font-size: 18px;
+    }
+
+
+    .contact p{
+        line-height: 30px;
+        font-size: 13px;
+        color: rgba(150, 150, 150, 1);
+    }
+    .contact a{
+        color: rgb(64, 64, 255);
+    }
+    .contact h2{
+        font-size: 14px;
+    }
+
+    .fo p{
+           font-size: 9px;
+    }
+    .fo h3{
+        font-size: 10px;
+    }
+
+
+}
+@media (max-width: 451px){
+    .hero-one img {
+        width: 57px;
+        height: 63px;
+    }
+    .hero-one img {
+        width: 47px;
+        height: 38px;
+    }
+    .section-one h1 {
+        font-size: 25px;
+    }
+
+    .bord-box {
+        width: 146px;
+        height: 291px;
+    }
+
+    .l {
+        padding-left: 0px;
+    }
+    .bord-box h3 {
+            font-size: 9px;
+    }
+    .subscrib-two {
+        margin-left: 0px;
+        margin-top: 187px;
+    }
+
+    .subscrib {
+        width: 382px;
+        height: 281px;
+    }
+
+    .subscrib-one input {
+        width: 197px;
+        height: 29px;
+        padding-left: 16px;
+    }
+    .subscrib-one h1 {
+        font-size: 14px;
+    }
+
+
+    .subscrib-one p {
+        font-size: 8px;
+    }
+
+
+    .subscrib-one {
+        padding-top: 53px;
+        padding-left: 9px;
+    }
+    .subscrib-two {
+        margin-left: 1px;
+        margin-top: 105px;
+    }
+
+    .subscrib {
+        width: 377px;
+        height: 206px;
+    }
+
+    .cozy {
+        width: 141px;
+        height: 133px;
+    }
+
+    .course{
+        display: none;
+    }
+      
+    .bord-test h1 {
+        font-size: 27px;
+    }
+    .explore-second {
+        width: 153px;
+        height: 59px;
+    }
+
+    .explore-second p {
+        font-size: 7px;
+    }
+
+    .ordering-one h1{
+        font-size: 30px;
+    }
+
+    .start-plan {
+        width: 278px;
+        height: 345px;
+    }
+    .contact{
+       flex-direction: column;
+       align-items: start;
+    }
+}
+@media (max-width: 400px){
+    .container{
+        width: 85%;
+    }
+    .subscrib {
+        width: 386px;
+        height: 244px;
+    }
+    .subscrib-two {
+        display: none;
+    }
+    
+    .subscrib-one {
+        padding-top: 38px;
+        padding-left: 30px;
+    }
+
+    .subscrib {
+        width: 316px;
+        height: 213px;
+    }
+
+    .project h1{
+        font-size: 24px;
+    }
+    .project p{
+        font-size: 10px;
+    }
+    .section-one p{
+        font-size: 10px;
+        line-height: 20px;
+    }
+
+    .hero-one img {
+        width: 45px;
+        height: 34px;
+    }
+
+    .bord-test h1 {
+        font-size: 30px;
+    }
+
+   .bloc-code{
+    flex-direction: column;
+   }
+
+   .ordering-one h1 {
+    padding-top: 30px;
+    font-size: 25px;
+   }
+
+   .explore-two-box {
+    width: 309px;
+    height: 343px;
+    padding: 9px;
+   }
+     
+   .explore-second {
+    width: 317px;
+    height: 83px;
+}
+
+  .explore-second p{
+     font-size: 14px;
+}
+
+.explore-second-t p{
+    font-size: 14px;
+    
+}
+.explore-second-t{
+    width: 217px;
+    height: 70px;
+   
+}
+
+.start-plan {
+    width: 308px;
+    height: 347px;
+}
+
+.bord-box {
+    width: 243px;
+}
+
+.head-two p{
+    display: none;
+}
+.contact p {
+    line-height: 26px;
+    font-size: 8px;
+}
+.contact h2{
+    font-size: 8px;
+}
+
+.section-one h1 {
+    font-size: 24px;
+}
+
+.img {
+    width: 40px;
+    height: 44px;
+}
+
+
+
+}
+@media (max-width: 376px){
+    #hero{
+        display: none;
+    }
+    .flex {
+        width: 121px;
+        height: 42px;
+    }
+    .flex1 {
+        width: 163px;
+    }
+    .explore-one h1 {
+        font-size: 25px;
+    }
+    .explore-one p {
+        font-size: 9px;
+    }
+    .floor {
+        width: 244px;
+        margin-left: 18px;
+    }
+    .hr {
+        margin-left: 0px;
+    }
+    .explore-two-box {
+        width: 286px;
+        height: 343px;
+        padding: 9px;
+    }
+   
+    .explore-second {
+        width: 295px;
+    }
+    .subscrib {
+        width: 283px;
+        height: 219px;
+    }
+    .floor-box {
+        width: 274px;
+    }
+
+    .subscrib-one h1 {
+        font-size: 18px;
+    }
+    .subscrib-one p {
+        font-size: 9px;
+    }
+    .subscrib-one input {
+        width: 204px;
+        height: 38px;
+    }
+    .contact{
+       flex-direction: column;
+        align-items: self-start;
+    }
+
+    .contact h2 {
+        font-size: 13px;
+    }
+
+    .contact p {
+        font-size: 13px;
+    }
+
+}
+@media (max-width: 320px){
+    .section-one h3{
+        font-size: 17px;
+    }
+    .subscrib {
+        width: 251px;
+        height: 210px;
+    }
+    .subscrib-one h1 {
+        font-size: 16px;
+    }
+    .subscrib-one p {
+        font-size: 9px;
+    }
+
+    .subscrib-one input {
+        width: 187px;
+        height: 30px;
+    }
+    .floor-box {
+        width: 248px;
+    }
+    .floor {
+        width: 215px;
+        margin-left: 16px;
+    }
+    .hr {
+        width: 212px;
+        margin-left: 17px;
+    }
+
+    .explore-two-box {
+        width: 248px;
+        height: 371px;
+        padding: 9px;
+    }
+
+    .explore-two-box h2 {
+        font-size: 26px;
+        font-weight: 700;
+        margin-bottom: 28px;
+    }
+
+    .explore-second {
+        width: 250px;
+        height: 74px;
+    }
+    .explore-second p {
+        font-size: 14px;
+    }
+    .ordering-one h1 {
+        padding-top: 29px;
+        font-size: 20px;
+    }
+
+    .contact{
+        flex-direction: column;
+        align-items: self-start;
+    }
+    .contact p {
+        font-size: 13px;
+    }
+
+    .contact h2{
+        font-size: 14px;
+    }
+    .contact ion-icon{
+        padding-bottom: 10px;
+    }
+
+    .n {
+        width: 119px;
+        height: 34px;
+        font-size: 9px;
+    }
+    .flex {
+        width: 143px;
+        height: 46px;
+        font-size: 16px;
+    }
+
+    .section-one p{
+        font-size: 9px;
+    }
+
+    .bord-box {
+        width: 224px;
+    }
+
+
+    .section-one {
+        gap: 20px;
+    }
+
+    #hero{
+        display: none;
+    }
+
+    .img img{
+        width: 20px;
+        height: 20px;
+    }
+    .flex {
+        width: 94px;
+        height: 37px;
+    }
+    .flex1 {
+        width: 91px;
+        height: 36px;
+    }
+    .barabar {
+        gap: 18px;
+    }
+    .box {
+        gap: 13px;
+    }
+    
+    
+}
